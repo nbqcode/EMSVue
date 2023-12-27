@@ -27,6 +27,14 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "discord", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "facebook", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "instagram", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "mastodon", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "slack", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "twitter", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "x", link: "https://github.com/nbqcode/EMSVue.git" },
+      { icon: "youtube", link: "https://github.com/nbqcode/EMSVue.git" },
     ],
   },
 });
