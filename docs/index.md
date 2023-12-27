@@ -3,28 +3,23 @@
 layout: home
 
 hero:
-  name: "ninja"
-  text: "一个基于union css vxe-table 构建的后台界面"
-  tagline: Lorem ipsum...
-  image:
-    src: https://vitepress.dev/vitepress-logo-large.webp
-    alt: VitePress
+  name: "My Awesome Project"
+  text: "A VitePress Site"
+  tagline: My great project tagline
   actions:
     - theme: brand
-      text: 快速上手
+      text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: 安装
+      text: API Examples
       link: /api-examples
 
 features:
-  - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
-  - icon: 😭
-    title: union.css
+  - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - icon: 📫
-    title: Feature C
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
