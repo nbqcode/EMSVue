@@ -1,8 +1,7 @@
 import { defineConfig } from "vitepress";
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "ninja 后台管理系统",
+  title: "后台管理系统",
   description: "一个基于union css vxe-table 构建的后台界面",
   base: "/EMSVue",
   themeConfig: {

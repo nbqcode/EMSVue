@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ninja"
-  text: "一个基于union css vxe-table 构建的后台界面"
+  text: "后台管理系统"
   tagline: Lorem ipsum...
   image:
     src: https://vitepress.dev/vitepress-logo-large.webp
